@@ -1,0 +1,13 @@
+.third {
+    position: absolute;
+    width: 560px;
+    height: 150px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 260px;
+    margin-top: -195px;
+}
+.photo {
+    margin-left: 120px;
+    margin-top: 10px;
+    }

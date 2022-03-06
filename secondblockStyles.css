@@ -1,0 +1,44 @@
+.second {
+    position: absolute;
+    width: 220px;
+    height: 500px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 280px;
+    margin-top: 5px;
+  }
+
+  .mainAvatar {
+    border-radius: 3px;
+    margin-top: 15px;
+    margin-left: 15px; 
+  }
+
+.block__section2 {
+    display: flex;
+    justify-content: space-between;
+    height: 29px;
+    width: 200px;
+    background: #e0dbe6;
+    border-radius: 6px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(113, 114, 126);
+    font-size: 14px;
+    text-align: center;
+}
+
+.container__text {
+    min-height: 10em;
+    display:table-cell;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: auto;
+}
+
+.secondblock__item {
+    padding: 10px 10px 6px 10px;
+    filter: invert(40%);
+}

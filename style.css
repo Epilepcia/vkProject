@@ -1,0 +1,37 @@
+.page {
+    min-width:1100px;
+    margin:0;
+    background-color: #f0f0f0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-bottom: 1px solid rgb(218, 214, 214);
+    margin-right: 80%;
+    height: 390px;
+}
+
+.sidebar__item {
+    cursor:pointer;
+    padding: 8px 10px;
+    font-size: 18px;    
+}
+  
+.sidebar__item:hover{
+    background-color: rgb(217, 217, 223);
+    border-radius:4px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+}
+
+
+

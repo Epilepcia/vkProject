@@ -1,0 +1,80 @@
+.header {
+    display: flex;
+    max-width: 100%;
+    height: 50px;
+    background-color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 2%;
+    height: 35px;
+}
+/*Кнопка поиск*/
+.search__section {
+    height: 29px;
+    width: 225px;
+    background: #f0f0f0;
+    border-radius: 6px;
+    margin-left: 8%;
+    margin-top: 5%;
+    color: gray;
+    font-size: 15px;
+    font-weight: 475;
+}
+
+.header__itemlogo {
+    margin-top: 3%;
+    margin-left: 4%;
+    filter: invert(40%);
+}
+/* Колокольчик*/
+.header__itemheaderButton {
+    margin-left: 35px;
+    margin-top: 20px;
+    filter: invert(50%)
+}
+/*Трэк*/
+.header__itemheaderButton2 {
+    margin-left: 30px;
+    margin-top: 20px;
+    filter: invert(70%)
+}
+.header__itemheaderButton3 {
+    margin-left: 10px;
+    margin-top: 20px;
+    filter: invert(70%)
+}
+
+.header__itemheaderButton4 {
+    margin-left: 7px;
+    margin-top: 20px;
+    filter: invert(70%)
+}
+
+.trackname {
+    padding-left: 2%;
+    margin-top: 19px;
+    filter: invert(40%);
+    font-size: 15px;
+}
+/*Меню*/
+.header__itemheaderButton5 {
+    margin-left: 190%;
+    margin-top: 14px;
+    filter: invert(70%)
+}
+
+.header__itemheaderAvatar {
+    margin-left: 250%;
+    margin-top: 5px;
+    border-radius: 100%;
+}
+
+.header__itemheaderAvatarmenu {
+    margin-left: 105px;
+    margin-top: 20px;
+    filter: invert(40%)
+}

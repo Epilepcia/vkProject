@@ -1,0 +1,17 @@
+.first {
+    position: absolute;
+    width: 560px;
+    height: 270px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 540px;
+    margin-top: 5px;
+  }
+  
+.firstUserName {
+    margin-left: 15px;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: auto;
+    font-size: 20px;
+  }
