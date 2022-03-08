@@ -1,17 +1,76 @@
 .first {
     position: absolute;
-    width: 560px;
+    width: 680px;
     height: 270px;
     background-color: white;
     border-radius: 5px;
-    margin-left: 540px;
+    margin-left: 530px;
     margin-top: 5px;
   }
   
 .firstUserName {
-    margin-left: 15px;
-    margin-right: auto;
+    display: flex;
+    margin-left: 17px;
     margin-top: 15px;
-    margin-bottom: auto;
     font-size: 20px;
   }
+
+.online {
+    padding-right: 14px;
+    margin-left: auto;
+    font-size: 15px;
+    filter: invert(28%)
+  }
+
+.status {
+    margin-left: 7px;
+    font-size: 15px;
+    filter: invert(40%);
+  }
+
+.emojiStatus {
+  padding-left: 5px;
+}
+
+.day {
+ padding-left: 15px;
+ 
+}
+
+.city {
+  padding-left: 90px;
+}
+
+.clickInfo {
+  padding-left: 138px;
+}
+
+.number {
+  display: flex;
+  justify-content: space-between;
+  max-width: 90%;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 80px;
+  padding-top: 10px;
+}
+
+.numberName {
+  display: flex;
+  justify-content: space-between;
+  max-width: 90%;
+  align-items: center;
+  padding-left: 40px;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+
+.nVideo {
+  padding-left: 32px;
+}
+
+hr {
+  border: none;
+  background-color: rgb(223, 221, 221);
+  height: 1px;
+}
