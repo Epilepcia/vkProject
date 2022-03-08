@@ -1,20 +1,22 @@
 .second {
     position: absolute;
     width: 220px;
-    height: 500px;
+    height: 530px;
     background-color: white;
     border-radius: 5px;
-    margin-left: 280px;
+    margin-left: 270px;
     margin-top: 5px;
   }
 
   .mainAvatar {
+    cursor:pointer;
     border-radius: 3px;
     margin-top: 15px;
     margin-left: 15px; 
   }
 
 .block__section2 {
+    cursor:pointer;
     display: flex;
     justify-content: space-between;
     height: 29px;
